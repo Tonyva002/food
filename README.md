@@ -6,7 +6,10 @@ This is a project from which you can search for different food recipes by catego
 Install node.js
 
 ## Steps to execute:
-Step 1. Download or Clone the repository Step 2. Unzip the file if you have downloaded it Step 3. Delete the file named 'package-lock.json' Step 4. Install npm with the finish 'npm install' Step 5. Type in the terminal the command 'npx react-native run-android' to run the project.
+Step 1. Download or Clone the repository 
+Step 2. Unzip the file if you have downloaded it Step  
+Step 3. Install npm with the finish 'npm install'
+Step 4. Type in the terminal the command 'npm start' to run the project.
 
 ## Author
 Tony Vasquez Arias
